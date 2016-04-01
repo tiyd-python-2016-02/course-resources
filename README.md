@@ -1,11 +1,13 @@
 # March 2016 Python in Durham
 
+## Week 1, Day 5
+
 - Videos
     - [w1d5 p1](https://youtu.be/jmL33C4deek)
 - Notebooks
     - [w1d5](https://github.com/tiyd-python-2016-02/course-resources/blob/master/week1/w1d5.ipynb)
 
-# Week 1, Day 4
+## Week 1, Day 4
 
 - Videos
     - [w1d4 p1](https://youtu.be/Lhq0vC3cRXk)
@@ -15,14 +17,14 @@
 - Notebooks
     - [w1d4](https://github.com/tiyd-python-2016-02/course-resources/blob/master/week1/w1d4.ipynb)
 
-# Week 1, Day 3
+## Week 1, Day 3
 
 - Videos
     - [w1d1 p3](https://youtu.be/F8ZU2i3lhsk)
 - Notebooks
     - [w1d3](https://github.com/tiyd-python-2016-02/course-resources/blob/master/week1/w1d3.ipynb)
 
-# Week 1, Day 2
+## Week 1, Day 2
 
 - Videos
     - [w1d2 p1](https://youtu.be/m0qtlNGHjAo)
