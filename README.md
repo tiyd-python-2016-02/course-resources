@@ -1,5 +1,15 @@
 # March 2016 Python in Durham
 
+## Week 2, Day 1
+
+- Videos
+    - [Importing Modules](https://youtu.be/Xzk51M57yto)
+    - [Object-Oriented Programming](https://youtu.be/GOU4Z1QR2t4)
+    - [OOP Continued](https://youtu.be/f1jOQ1W_XGY)
+- Notebooks
+    - [Importing Modules, OOP](https://github.com/tiyd-python-2016-02/course-resources/blob/master/week2/w2d1.ipynb)
+    - [OOP Review](https://github.com/tiyd-python-2016-02/course-resources/blob/master/week2/w2d1-review.ipynb)
+
 ## Week 1, Day 5
 
 - Videos
