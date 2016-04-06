@@ -1,5 +1,21 @@
 # March 2016 Python in Durham
 
+## Week 2, Day 3
+
+- Videos
+    - [Enumerate & Zip](https://youtu.be/y_NKe6gA5LQ)
+    - [Args & Kwargs](https://youtu.be/YYTY8bMiT5A)
+- Notebooks
+    - [Enumerate, Zip, Args, & Kwargs](https://github.com/tiyd-python-2016-02/course-resources/blob/master/week2/w2d3.ipynb)
+
+## Week 2, Day 2
+
+- Videos
+    - [Pair Programming](https://youtu.be/y_NKe6gA5LQ)
+    - [Sets, List + Dict + Set Comprehensions](https://youtu.be/YYTY8bMiT5A)
+- Notebooks
+    - [Sets, List + Dict + Set Comprehensions](https://github.com/tiyd-python-2016-02/course-resources/blob/master/week2/w2d2.ipynb)
+
 ## Week 2, Day 1
 
 - Videos
