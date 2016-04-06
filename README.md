@@ -3,8 +3,8 @@
 ## Week 2, Day 3
 
 - Videos
-    - [Enumerate & Zip](https://youtu.be/y_NKe6gA5LQ)
-    - [Args & Kwargs](https://youtu.be/YYTY8bMiT5A)
+    - [Enumerate & Zip](https://youtu.be/qpYWrgN7vbI)
+    - [Args & Kwargs](https://youtu.be/rM8lmYdUkK0)
 - Notebooks
     - [Enumerate, Zip, Args, & Kwargs](https://github.com/tiyd-python-2016-02/course-resources/blob/master/week2/w2d3.ipynb)
 
