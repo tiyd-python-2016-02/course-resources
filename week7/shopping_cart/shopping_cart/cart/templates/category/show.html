@@ -1,0 +1,13 @@
+{{ category }}
+
+<ul>
+  {% for product in category.products.all %}
+    <li>
+      <form action="{% url 'cart:add_to_cart' %}" method="post">
+        {% csrf_token %}
+        <input type="hidden" name="product_id" value="{{product.id}}">
+        <input type="submit" value="Add {{product}} to cart">
+      </form>
+    </li>
+  {% endfor %}
+</ul>

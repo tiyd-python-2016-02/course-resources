@@ -1,0 +1,12 @@
+{% load staticfiles %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'cart/style.css' %}" />
+
+
+<ul>
+  {% for product in cart.products.all %}
+  <li> {{product.name}}; {{product.price}} </li>
+  {% endfor %}
+</ul>
+
+Total price: {{cart.get_total}}
